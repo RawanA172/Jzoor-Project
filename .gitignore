@@ -1,0 +1,24 @@
+# SAFE TO IGNORE
+/node_modules
+/public/build
+/public/hot
+/public/storage
+# /storage/*.key
+/vendor
+.phpunit.result.cache
+Homestead.json
+Homestead.yaml
+auth.json
+npm-debug.log
+yarn-error.log
+/.fleet
+/.idea
+/.vscode
+
+# DO NOT IGNORE THESE
+# !/storage/
+# !.env
+# !*.sql
+!/storage/
+!/storage/app/
+!/storage/app/public/
