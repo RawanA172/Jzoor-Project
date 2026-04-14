@@ -108,8 +108,8 @@ I played a key role in the project as:
 ### 🛒 Products Page
 ![Products](Products.png)
 
-### 📦 Orders Page
-![Orders](assets/images/orders.png)
+### 📦 Cart Page
+![Orders](Cart.png)
 
 ### 👤 Admin Dashboard
 ![Dashboard](Admindashboard.png)
