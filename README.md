@@ -146,7 +146,7 @@ The project includes a ready-to-use database file:
 ---
 ## Full Document
 You can view the full project documentation here:
-[Download PDF](Graduation Project .pdf)
+[Download PDF](GraduationProject.pdf)
 ---
 
 ## Installation
