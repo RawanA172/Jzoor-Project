@@ -106,7 +106,7 @@ I played a key role in the project as:
 ![Home](Home.png)
 
 ### 🛒 Products Page
-![Products](assets/images/products.png)
+![Products](Products.png)
 
 ### 📦 Orders Page
 ![Orders](assets/images/orders.png)
