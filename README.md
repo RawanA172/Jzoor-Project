@@ -111,6 +111,9 @@ I played a key role in the project as:
 ### 📦 Cart Page
 ![Orders](Cart.png)
 
+### Empty Cart State
+! [Cart Empty State](CartEmptyState.png)
+
 ### 👤 Admin Dashboard
 ![Dashboard](Admindashboard.png)
 
