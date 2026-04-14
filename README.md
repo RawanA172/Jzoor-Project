@@ -103,7 +103,7 @@ I played a key role in the project as:
 ## 📸 Project UI Screenshots
 
 ### 🏠 Home Page
-![Home](assets/images/home.png)
+![Home](Home.png)
 
 ### 🛒 Products Page
 ![Products](assets/images/products.png)
