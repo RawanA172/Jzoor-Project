@@ -109,10 +109,10 @@ I played a key role in the project as:
 ![Products](Products.png)
 
 ### Orders Page
-![Products](Orders.png)
+![Orders](Orders.png)
 
 ### Cart Page
-![Orders](Cart.png)
+![Cart](Cart.png)
 
 ### Empty Cart State
 ![Cart Empty State](CartEmptyState.png)
@@ -120,7 +120,7 @@ I played a key role in the project as:
 ### Admin Dashboard
 ![Dashboard](Admindashboard.png)
 
-### Admin Dashboard
+### Delivery Dashboard
 ![Dashboard](DeliveryDashboard.png)
 
 ---
