@@ -100,8 +100,19 @@ I played a key role in the project as:
 - User Acceptance Testing (UAT)
 
 ---
-Screen Shots
+## 📸 Project UI Screenshots
 
+### 🏠 Home Page
+![Home](assets/images/home.png)
+
+### 🛒 Products Page
+![Products](assets/images/products.png)
+
+### 📦 Orders Page
+![Orders](assets/images/orders.png)
+
+### 👤 Admin Dashboard
+![Dashboard](assets/images/dashboard.png)
 
 ---
 ## Demo Video
