@@ -120,6 +120,9 @@ I played a key role in the project as:
 ### Admin Dashboard
 ![Dashboard](Admindashboard.png)
 
+### Admin Dashboard
+![Dashboard](DeliveryDashboard.png)
+
 ---
 ## Demo Video
 [Watch Project Demo](https://youtu.be/XK0UdhRWs9E)
