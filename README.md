@@ -112,7 +112,7 @@ I played a key role in the project as:
 ![Orders](Cart.png)
 
 ### Empty Cart State
-! [Cart Empty State](CartEmptyState.png)
+![Cart Empty State](CartEmptyState.png)
 
 ### 👤 Admin Dashboard
 ![Dashboard](Admindashboard.png)
