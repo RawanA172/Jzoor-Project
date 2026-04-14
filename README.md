@@ -112,7 +112,7 @@ I played a key role in the project as:
 ![Orders](assets/images/orders.png)
 
 ### 👤 Admin Dashboard
-![Dashboard](assets/images/dashboard.png)
+![Dashboard](Admindashboard.png)
 
 ---
 ## Demo Video
