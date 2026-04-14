@@ -120,7 +120,7 @@ Screen Shots
 
 The project includes a ready-to-use database file:
 
-👉 database/juzoor.sql
+👉 [database/juzoor.sql](https://raw.githubusercontent.com/RawanA172/Jzoor-Project/main/Juzoor-DataBase.sql)
 
 ### Import Steps:
 1. Open phpMyAdmin
