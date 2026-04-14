@@ -102,19 +102,22 @@ I played a key role in the project as:
 ---
 ## 📸 Project UI Screenshots
 
-### 🏠 Home Page
+### Home Page
 ![Home](Home.png)
 
-### 🛒 Products Page
+### Products Page
 ![Products](Products.png)
 
-### 📦 Cart Page
+### Orders Page
+![Products](Orders.png)
+
+### Cart Page
 ![Orders](Cart.png)
 
 ### Empty Cart State
 ![Cart Empty State](CartEmptyState.png)
 
-### 👤 Admin Dashboard
+### Admin Dashboard
 ![Dashboard](Admindashboard.png)
 
 ---
