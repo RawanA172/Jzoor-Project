@@ -144,6 +144,10 @@ The project includes a ready-to-use database file:
 5. Run
 
 ---
+## Full Document
+You can view the full project documentation here:
+[Download PDF](Graduation Project .pdf)
+---
 
 ## Installation
 ```bash
