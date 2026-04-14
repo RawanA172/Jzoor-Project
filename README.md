@@ -100,20 +100,38 @@ I played a key role in the project as:
 - User Acceptance Testing (UAT)
 
 ---
-## 🎥 Demo Video
+Screen Shots
+
+
+---
+## Demo Video
 [Watch Project Demo](https://youtu.be/XK0UdhRWs9E)
 
 ---
 
-## 📈 Future Improvements
+## Future Improvements
 - 📱 Mobile Application (Android & iOS)
 - 🌍 International delivery expansion
 - 🤖 AI-based recommendation system
 - 🌐 Multi-language support (Arabic & English)
 
 ---
+## Database Setup
 
-## 📂 Installation
+The project includes a ready-to-use database file:
+
+👉 database/juzoor.sql
+
+### Import Steps:
+1. Open phpMyAdmin
+2. Create a new database
+3. Click Import
+4. Select the SQL file
+5. Run
+
+---
+
+## Installation
 ```bash
 # Clone repository
 git clone https://github.com/your-username/juzoor.git
